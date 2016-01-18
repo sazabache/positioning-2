@@ -1,0 +1,56 @@
+/* Inserta tu CSS aqui */
+.primero{
+	width: 200px;
+	height: 200px;
+	background-color: #ED462F;
+	position: static;
+}
+
+.segundo{
+	width: 100px;
+	height: 100px;
+	background-color: #752E80;
+	position: relative;
+	left: 50px;
+	top: 50px;
+
+}
+
+.tercero{
+	width: 50px;
+	height: 50px;
+	background-color: #FFF835;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+
+}
+
+
+
+.cuarto{
+	width: 200px;
+	height: 200px;
+	background-color: #0048FB;
+	position: relative;
+}
+
+.quinto{
+	width: 100px;
+	height: 100px;
+	background-color: #387804;
+	position: absolute;
+	left: 50px;
+	top: 50px;
+
+}
+
+.sexto{
+	width: 50px;
+	height: 50px;
+	background-color: #000000;
+	position: static;
+	left: 0px;
+	top: 0px;
+
+}
